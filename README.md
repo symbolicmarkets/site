@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Symbolic Markets
 
-You can use the [editor on GitHub](https://github.com/symbolicmarkets/trading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Capitlizing on individual patterns in data and exploiting each pattern.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Raw performance, negative correlation with the market, and the agnosticism of operators to drive compounding returns, year over year.
 
-### Markdown
+### Of Dollars and Data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Funds 
 
-```markdown
-Syntax highlighted code block
+**Ptolemy**
 
-# Header 1
-## Header 2
-### Header 3
+**Augustus**
 
-- Bulleted
-- List
+**Sevastopol**
 
-1. Numbered
-2. List
+## LPs
+Login information provided privately.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/symbolicmarkets/trading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Corporate
+Contact us via [email](mailto:#)
